@@ -1,6 +1,10 @@
-## Hi there 👋
+<h2 align="center">👋 Hello world!</h2>
 
-Welcome — this is the personal repositories hub for imiss-U. I collect projects, experiments and notes here focused on front-end, C++ and developer tooling.
+
+- 🔭 Student from Northestern University(China) currently
+- 💬 Major in  **C++ and Python**
+- 📫 How to reach me: [@imiss-U](eruditosoul@outlook) through outlook
+- ⚡ 君指尖跃动の光は、私の一生不変の信仰に、唯私の超電磁砲永世生き！
 
 ---
 
@@ -47,7 +51,7 @@ Curated resources I find useful:
 
 ## Contact
 - GitHub: [https://github.com/imiss-U](https://github.com/imiss-U)
-- Email: see GitHub profile (if publicly available)
+- Email: see GitHub profile
 
 ---
 
