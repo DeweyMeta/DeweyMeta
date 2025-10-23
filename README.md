@@ -50,7 +50,7 @@ Curated resources I find useful:
 ---
 
 ## Contact
-- GitHub: [https://github.com/imiss-U](https://github.com/imiss-U)
+- GitHub: [https://github.com/DeweyMeta](https://github.com/DeweyMeta)
 - Email: see GitHub profile
 
 ---
