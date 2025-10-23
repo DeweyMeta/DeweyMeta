@@ -3,8 +3,8 @@
 
 - 🔭 Student from Northestern University(China) currently
 - 💬 Major in  **C++ and Python**
-- 📫 How to reach me: [@imiss-U](eruditosoul@outlook) through outlook
-- ⚡ 君指尖跃动の光は、私の一生不変の信仰に、唯私の超電磁砲永世生き！
+- 📫 How to reach me: [@DeweyMeta](eruditosoul@outlook) through outlook
+- ⚡ My hammer is the hammer that will bring down the stars, bulin!
 
 ---
 
